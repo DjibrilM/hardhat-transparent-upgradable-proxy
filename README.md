@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
 # hardhat-transparent-upgradable-proxy
+# transparent-upgradable-proxy-starter-project
